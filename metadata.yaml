@@ -1,0 +1,23 @@
+_repo: Biographical-Sketches-of-the-Generals-of-the-Continental-Army-of-the-Revolution_54153
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leiter, Mary Theresa
+    gutenberg_agent_id: '47733'
+    url: http://www.gutenberg.org/2009/agents/47733
+description: ''
+gutenberg_issued: '2017-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54153'
+  lccn: 05036851
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Biography'
+- !lcc 'E201'
+- GITenberg
+title: Biographical Sketches of the Generals of the Continental Army of the Revolution
+url: http://www.gutenberg.org/ebooks/54153
